@@ -1,0 +1,8 @@
+This is line 1.
+give should not be replaced here (before line 5).
+Line 3: welcome, but no replacement (before line 5).
+Line 4: give remains unchanged (before line 5).
+Line 5: welcome, learning should become learning.
+Line 6: no welcome, so "learning" stays.
+Line 7: WELCOME (case-sensitive?), give should change.
+Line 8: learning remains if no "welcome".
